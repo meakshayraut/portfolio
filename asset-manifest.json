@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.e40afea7.chunk.css",
+    "main.js": "/portfolio/static/js/main.e1e3b6f4.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e1e3b6f4.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d8f51522.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d8f51522.js.map",
+    "static/js/2.43c41047.chunk.js": "/portfolio/static/js/2.43c41047.chunk.js",
+    "static/js/2.43c41047.chunk.js.map": "/portfolio/static/js/2.43c41047.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/portfolio/static/css/3.df879eac.chunk.css",
+    "static/js/3.1037dc21.chunk.js": "/portfolio/static/js/3.1037dc21.chunk.js",
+    "static/js/3.1037dc21.chunk.js.map": "/portfolio/static/js/3.1037dc21.chunk.js.map",
+    "static/css/4.d7ceb645.chunk.css": "/portfolio/static/css/4.d7ceb645.chunk.css",
+    "static/js/4.0a398bfe.chunk.js": "/portfolio/static/js/4.0a398bfe.chunk.js",
+    "static/js/4.0a398bfe.chunk.js.map": "/portfolio/static/js/4.0a398bfe.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.f1c179fd650753f9b9aff3d5355ee54f.js": "/portfolio/precache-manifest.f1c179fd650753f9b9aff3d5355ee54f.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/portfolio/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.d7ceb645.chunk.css.map": "/portfolio/static/css/4.d7ceb645.chunk.css.map",
+    "static/css/main.e40afea7.chunk.css.map": "/portfolio/static/css/main.e40afea7.chunk.css.map",
+    "static/js/2.43c41047.chunk.js.LICENSE.txt": "/portfolio/static/js/2.43c41047.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/contactMailDark.svg": "/portfolio/static/media/contactMailDark.51cf7192.svg",
+    "static/media/coursera-logo.png": "/portfolio/static/media/coursera-logo.59763beb.png",
+    "static/media/developerActivity.svg": "/portfolio/static/media/developerActivity.59389695.svg",
+    "static/media/gpalogo.png": "/portfolio/static/media/gpalogo.5e12d92d.png",
+    "static/media/manOnTable.svg": "/portfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/skill.svg": "/portfolio/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/portfolio/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8f51522.js",
+    "static/js/2.43c41047.chunk.js",
+    "static/css/main.e40afea7.chunk.css",
+    "static/js/main.e1e3b6f4.chunk.js"
+  ]
+}
